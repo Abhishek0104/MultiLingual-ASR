@@ -8,3 +8,4 @@ References:
 2. Multilingual Speech Recognition With A Single End-To-End Model Shubham Toshniwal , et al. (2018)
 3. CMU Deep Learning (https://deeplearning.cs.cmu.edu/S21/document/homework/HW4/P2/2021spring_HW4P2.pdf https://youtu.be/0ou_NnBHgbw)
 4. https://huggingface.co/
+5. https://huggingface.co/blog/fine-tune-xlsr-wav2vec2
